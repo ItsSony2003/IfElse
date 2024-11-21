@@ -28,7 +28,7 @@ namespace DaysLiveCheck
             age = int.Parse(Console.ReadLine());
             if (age <= 0 || age > 120)
             {
-                Console.WriteLine("Please Enter The Right Age!");
+                Console.WriteLine("you Enter The Wrong Age!");
             }
             else
             {
